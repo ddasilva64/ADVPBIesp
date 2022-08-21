@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Resumen](README.md)
-* [Conceptos BI](conceptos-bi/README.md)
-  * [Concepto de Business Intelligence](conceptos-bi/concepto-de-business-intelligence.md)
+* [Conceptos BI](conceptos/README.md)
+  * [Concepto de Business Intelligence](conceptos/concepto-de-business-intelligence.md)
 * [ETL](etl.md)
 * [Publicación](publicacion.md)
 * [Orígenes](origenes.md)

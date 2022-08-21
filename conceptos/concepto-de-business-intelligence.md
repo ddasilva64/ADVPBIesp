@@ -1,6 +1,6 @@
 # Concepto de Business Intelligence
 
-**Business Intelligence**: Estrategia empresarial que persigue incrementar el rendimiento o la competitividad de la empresa, basado en el análisis y proyección del histórico de datos.
+**Business Intelligence**: Estrategia empresarial que persigue incrementar el rendimiento o la competitividad de la organización, basada en el análisis y proyección del histórico de datos.
 
 **Histórico de datos**: Operaciones diarias o transacciones, que se pueden se almacenar en Data Marts (departamentales), Data Warehouse (corporativas), o en ficheros estructurados.
 
