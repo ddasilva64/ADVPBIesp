@@ -6,22 +6,14 @@
 
 **Tecnología de Business Intelligence**: Necesidad del negocio que busca hacer más competitivas e inteligentes las corporaciones, a partir de la información almacenada.
 
-**Justificación de la inversión en Bl:**
+**Justificación de la inversión en BI**:
 
-·        Visibilidad de lo que está pasando
-
-·        Informes/reportes centralizados
-
-·        Análisis de tendencias y “predicción” del futuro
-
-·        Toma de decisiones efectivas sobre productos
-
-·        Centraliza datos dispersos
-
-·        "Valida” sistemas transaccionales
-
-·        Visión real del contexto (empresarial en el segmento de negocio)
-
-·        Validación de la posíción del compañía (respecto a los competidores)
-
-·        Tendencias de mercado
+* Visibilidad de _**lo que está pasando**_
+* Creación de _**informes centralizados**_
+* Análisis de _**tendencias y prospectiva**_ (predicción del futuro)
+* Toma de _**decisiones efectivas**_ sobre productos
+* _**Centralización**_ de datos dispersos
+* _**Validación de sistemas transaccionales**_
+* _**Visión**_ real _**del contexto**_ (empresarial en el segmento de negocio)
+* _**Validación de la posición de la campaña**_ (respecto a los competidores)
+* _**Análisis de tendencias de mercado**_
