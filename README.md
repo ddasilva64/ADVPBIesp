@@ -45,3 +45,12 @@ description: >-
 El español es el cuarto idioma más hablado en el mundo. ¡Eso es todo amigos!
 
 **¿Quién soy?**
+
+****
+
+![Daniel da Silva Jarque (autor)](https://i.imgur.com/2i0LPvN.png)
+
+[Blog personal (inglés) - WordPress -](https://gwst.eu)\
+[Portafolio profesional (inglés, español, catalán) - GitHub -](https://github.com/ddasilva64)\
+Notas, comentarios de libros, etc. (inglés, español, catalán) - GitBook -\
+[Perfil profesional (inglés) - LinkedIn -](https://linkedin.com/in/daniel-da-silva-jarque-863705206)
