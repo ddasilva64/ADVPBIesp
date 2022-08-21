@@ -1,0 +1,2 @@
+# Componentes entorno BI
+
