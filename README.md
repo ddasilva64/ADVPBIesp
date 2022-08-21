@@ -19,14 +19,26 @@ description: >-
 
 **Lo que necesitamos saber**
 
-* Inteligencia de Negocios con Power BI
+* Conceptos de BI
+* Conceptos ETL
+* Publicación de informes
+* Fuentes de datos
 * Preparación de datos
 * Modelado de datos
-* Visualización de datos
-* Análisis de datos&#x20;
-* Entrega de datos
-* Lecturas interesantes
-* Libros interesantes
+* Relaciones de datos
+* Lenguaje DAX
+* Funciones escalares
+* Buenas prácticas en DAX
+* La función CALCULATE
+* Funciones de tabla y filtros
+* Funciones de tablas combinadas
+* Funciones de relación
+* Funciones de gestión del tiempo
+* Optimizaciones
+* Servicio
+* Publicar y compartir informes
+* Instalación de un data gateway
+* Buenas prácticas en Power BI
 
 **¿Por qué en español?**
 
