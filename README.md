@@ -14,7 +14,8 @@ description: >-
 
 **Desafío**
 
-* Construir y publicar adecuadamente un dashboard de RRHH en el servicio.
+* obtener información sobre la configuración y administración eficientes de Power BI
+* obtener una comprensión profunda de las funciones DAX y aprender las mejores prácticas y recomendaciones para ayudar a ejecutar informes avanzados
 
 **Lo que necesitamos saber**
 
