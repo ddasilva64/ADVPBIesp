@@ -8,11 +8,9 @@ description: >-
 
 **¿Por qué debería aprender esto?**
 
-* descubrir los conceptos básicos de Business Intelligence
-* aprender a transformar datos con Power Query
-* modelar nuestros datos con lenguaje DAX
-* aprender a instalar un gateway
-* aprender buenas prácticas en DAX y Power BI
+* mejorar el uso de Power BI
+* aumentar el conocimiento en funciones DAX
+* descubrir las mejores prácticas y otras recomendaciones para crear informes y cuadros de mando avanzados
 
 **Desafío**
 
