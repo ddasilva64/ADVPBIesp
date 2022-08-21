@@ -1,2 +1,2 @@
-# Conceptos BI
+# Conceptos
 
