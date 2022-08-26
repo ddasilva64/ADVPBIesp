@@ -5,6 +5,7 @@
   * [Concepto de Business Intelligence](conceptos/concepto-de-business-intelligence.md)
   * [Componentes entorno BI](conceptos-bi/componentes-entorno-bi.md)
   * [Conceptos BI](conceptos-bi/conceptos-bi.md)
+  * [Posición Power BI ante los competidores](conceptos-bi/posicion-power-bi-ante-los-competidores.md)
 * [ETL](etl.md)
 * [Publicación](publicacion.md)
 * [Orígenes](origenes.md)
